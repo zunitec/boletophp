@@ -33,7 +33,7 @@
 <html>
 <head>
 <title><?php echo $dadosboleto["identificacao"]; ?></title>
-<META http-equiv=Content-Type content=text/html charset=ISO-8859-1>
+<META http-equiv=Content-Type content=text/html charset=UTF-8>
 <meta name="Generator" content="Projeto BoletoPHP - www.boletophp.com.br - Licen�a GPL" />
 	
 <style type="text/css">
@@ -692,7 +692,7 @@ div.barcode {
 		<tr class="titulos">
 			<td class="reservado">Uso do  banco</td>
 			<td class="carteira">Carteira</td>
-			<td class="especie2">Esp�cie</td>
+			<td class="especie2">Esp&eacute;cie</td>
 			<td class="qtd2">Quantidade</td>
 			<td class="xvalor">x Valor</td>
 			<td class="valor_doc2">(=) Valor documento</td>

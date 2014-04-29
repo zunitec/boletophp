@@ -31,7 +31,7 @@
 <HTML>
 <HEAD>
 <TITLE><?php echo $dadosboleto["identificacao"]; ?></TITLE>
-<META http-equiv=Content-Type content=text/html charset=ISO-8859-1>
+<META http-equiv=Content-Type content=text/html charset=UTF-8>
 <meta name="Generator" content="Projeto BoletoPHP - www.boletophp.com.br - Licen�a GPL" />
 <style type=text/css>
 <!--.cp {  font: bold 10px Arial; color: black}
