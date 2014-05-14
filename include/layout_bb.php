@@ -499,7 +499,7 @@ div.barcode {
 		<address><?php echo $dadosboleto["cidade_uf"]; ?></address>
 	</div>	<!-- id="instr_header" -->
 
-	<div id="">
+	<div id="instructions">
 <!--
   Use no lugar do <div id=""> caso queira imprimir sem o logotipo e instru��es
   <div id="instructions">
